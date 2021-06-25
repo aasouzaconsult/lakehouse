@@ -1,0 +1,11 @@
+﻿CdVen;DtVen;CdCli;NmCli;Cidade;Estado;Pais;CdPro;NmPro;TpPro;Qtd;Und;VrUnt;Total;CdVdd;delete
+1;20/01/2021;1;Cliente AA;Florianopolis;Santa Catarina;Brasil;1;Produto A;A;4000;KG;8;32000;2;0
+2;31/05/2021;2;Cliente AB;Fortaleza;Ceara;Brasil;2;Produto B;A;730;KG;20;14600;5;0
+3;01/06/2021;5;Cliente BB;Belo Horizonte;Minas Gerais;Brasil;1;Produto A;A;4200;KG;10;42000;4;0
+4;02/06/2021;3;Cliente BC;Baturite;Ceara;Brasil;1;Produto A;A;250;KG;10;2500;2;0
+5;03/06/2021;4;Cliente CC;Fortaleza;Ceara;Brasil;1;Produto A;A;4500;KG;10;45000;1;0
+6;04/06/2021;5;Cliente BB;Belo Horizonte;Minas Gerais;Brasil;1;Produto A;A;11200;KG;10;112000;3;0
+7;04/06/2021;6;Cliente DD;Goiania;Goias;Brasil;1;Produto A;A;12500;KG;10;125000;2;0
+8;04/06/2021;7;Cliente DE;Joao Pessoa;Paraiba;Brasil;1;Produto A;A;12000;KG;10;120000;2;0
+9;04/06/2021;8;Cliente EE;Natal;Rio Grande do Norte;Brasil;1;Produto A;A;17500;KG;10;175000;3;0
+10;04/06/2021;5;Cliente BB;Belo Horizonte;Minas Gerais;Brasil;1;Produto A;A;24000;KG;10;240000;1;0
