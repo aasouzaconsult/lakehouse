@@ -9,3 +9,5 @@ Referências
 - Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics ([link](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf))
 - Productionizing Machine Learning with Delta Lake ([link](https://databricks.com/blog/2019/08/14/productionizing-machine-learning-with-delta-lake.html))
 - Camadas Delta Lake ([link](https://live-delta-io.pantheonsite.io/wp-content/uploads/2019/04/Delta-Lake-marketecture-0423c.png))
+- Books
+  - Delta Lake: The Definitive Guide by O’Reilly ([link](https://databricks.com/p/ebook/delta-lake-the-definitive-guide-by-oreilly))
