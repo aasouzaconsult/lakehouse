@@ -6,3 +6,4 @@ Referências
 - What is a data lakehouse ([link](https://databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html))
 - Artigo: Gerenciamento de Dados: dos Dados ao Lakehouse ([link](https://blog.compassouol.com/tech/gerenciamento-de-dados-dos-dados-ao-lakehouse/))
 - Camadas Delta Lake ([link](https://live-delta-io.pantheonsite.io/wp-content/uploads/2019/04/Delta-Lake-marketecture-0423c.png))
+- Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics ([link](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf))
