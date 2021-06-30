@@ -17,3 +17,4 @@ Um Lakehouse é uma novo conceito que permite aos usuários fazer tudo, desde BI
   - Productionizing Machine Learning with Delta Lake ([link](https://databricks.com/blog/2019/08/14/productionizing-machine-learning-with-delta-lake.html))
   - Announcing Photon Public Preview: The Next Generation Query Engine on the Databricks Lakehouse Platform ([link](https://databricks.com/blog/2021/06/17/announcing-photon-public-preview-the-next-generation-query-engine-on-the-databricks-lakehouse-platform.html))
   - Camadas Delta Lake ([link](https://live-delta-io.pantheonsite.io/wp-content/uploads/2019/04/Delta-Lake-marketecture-0423c.png))
+  - Demos - Databricks ([link](https://databricks.com/discover/demos))
