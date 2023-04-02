@@ -18,3 +18,15 @@ Um Lakehouse é um novo conceito que permite aos usuários fazer tudo, desde BI,
   - Announcing Photon Public Preview: The Next Generation Query Engine on the Databricks Lakehouse Platform ([link](https://databricks.com/blog/2021/06/17/announcing-photon-public-preview-the-next-generation-query-engine-on-the-databricks-lakehouse-platform.html))
   - Camadas Delta Lake ([link](https://live-delta-io.pantheonsite.io/wp-content/uploads/2019/04/Delta-Lake-marketecture-0423c.png))
   - Demos - Databricks ([link](https://databricks.com/discover/demos))
+
+-----------
+**Alex Souza**
+- [Youtube](https://www.youtube.com/@alexsouzamsc)
+- [Portfólio de Serviços](https://github.com/aasouzaconsult/Cientista-de-Dados)
+- [Blog](https://medium.com/blog-do-zouza)
+- [Linkedin](https://www.linkedin.com/in/alex-souza/)
+- [Instagram](https://www.instagram.com/alexsouzamsc/)
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/29084827/164712340-6b03015f-a428-4731-b1b9-a5605de203b2.svg)
+
+[![Language](https://img.shields.io/badge/AlexSouza-yellow.svg)](https://medium.com/blog-do-zouza)
