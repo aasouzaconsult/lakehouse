@@ -4,8 +4,9 @@ Um Lakehouse é um novo conceito que permite aos usuários fazer tudo, desde BI,
 
 - Artigos e posts próprios
   - Lakehouse + Fabric ([link](https://omestredosdados.com.br/fabric-lakehouse.html))
-  - Lakehouse + Databricks ([link](https://omestredosdados.com.br/databricks.html)) 
-  - Passo a Passo de como montar um Data Mart em um Lakehouse da Databricks ([link](https://www.youtube.com/watch?v=urQXu4i_aYM&t=6303s))
+  - Lakehouse + Databricks ([link](https://omestredosdados.com.br/databricks.html))
+  - Ambiente de demonstração ([link](https://github.com/aasouzaconsult/lakehouse/tree/main/Ambiente%20demonstra%C3%A7%C3%A3o))
+  - (Antigo) Passo a Passo de como montar um Data Mart em um Lakehouse da Databricks ([link](https://www.youtube.com/watch?v=urQXu4i_aYM&t=6303s))
   - Lendo tabelas do Databricks community pelo Power BI ([link](https://blogdozouza.wordpress.com/2021/03/21/lendo-tabelas-do-databricks-community-pelo-power-bi/))
 - Artigos orientados
   - Lakehouse: Uma saída para as limitações dos Data Lakes ([link](https://blogdozouza.files.wordpress.com/2021/06/lakehouse-uma-saida-para-as-limitacoes-dos-data-lakes.pdf))
