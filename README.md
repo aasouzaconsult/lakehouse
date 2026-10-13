@@ -3,7 +3,8 @@
 Um Lakehouse é um novo conceito que permite aos usuários fazer tudo, desde BI, análise SQL, Machine Learnig em uma única plataforma. O Lakehouse tem uma abordagem opinativa para construir Data Lakes, adicionando atributos de Data Warehouses - confiabilidade, desempenho e qualidade, mantendo a abertura e escala de Data Lakes.
 
 - Artigos e posts próprios
-  - Artigo: Gerenciamento de Dados: dos Dados ao Lakehouse ([link](https://blog.compassouol.com/tech/gerenciamento-de-dados-dos-dados-ao-lakehouse/)) 
+  - Lakehouse + Fabric ([link](https://omestredosdados.com.br/fabric-lakehouse.html))
+  - Lakehouse + Databricks ([link](https://omestredosdados.com.br/databricks.html)) 
   - Passo a Passo de como montar um Data Mart em um Lakehouse da Databricks ([link](https://www.youtube.com/watch?v=urQXu4i_aYM&t=6303s))
   - Lendo tabelas do Databricks community pelo Power BI ([link](https://blogdozouza.wordpress.com/2021/03/21/lendo-tabelas-do-databricks-community-pelo-power-bi/))
 - Artigos orientados
@@ -21,6 +22,7 @@ Um Lakehouse é um novo conceito que permite aos usuários fazer tudo, desde BI,
 
 -----------
 **Alex Souza**
+- [Site](https://omestredosdados.com.br)
 - [Youtube](https://www.youtube.com/@alexsouzamsc)
 - [Portfólio de Serviços](https://github.com/aasouzaconsult/Cientista-de-Dados)
 - [Blog](https://medium.com/blog-do-zouza)
